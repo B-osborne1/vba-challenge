@@ -3,9 +3,8 @@
 Overview: This repository involves a tri-year examination of different stocks from 2018-2020. A macro was established to summarise how each stock changed per year and to identify the most significant changes.
 
 Section 1: Contents
-    1) Multiple_year_stock_data completed: The excel sheet that macro was conducted on
-    2) Summary_Screenshots: A screenshot for 2018, 2019 and 2020 outlining results
-    3) Multiple_year_stock_data_macro.vba: The macro developed to complete task
+    1) Summary_Screenshots: A screenshot for 2018, 2019 and 2020 outlining results
+    2) Stock_Analysis_Macro.vba: The macro developed to complete task
 
 Section 2: Sources Used
 
